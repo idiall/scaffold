@@ -1,0 +1,2 @@
+# scaffold
+Python project scaffold
